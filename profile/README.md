@@ -1,6 +1,6 @@
 # PicadosYa! - App de Alquiler de Canchas
 
-PicadosYa! es una aplicación web diseñada para facilitar el alquiler de canchas deportivas. Los usuarios pueden buscar y reservar canchas cercanas a su ubicación, seleccionando horarios disponibles y pagando a través de una pasarela de pago integrada en la aplicación. Nuestra misión es ofrecer una forma simple y rápida de alquilar canchas deportivas en cualquier lugar.
+PicadosYa! es una aplicación web pensada y diseñada para facilitar el alquiler de canchas deportivas. Los usuarios pueden buscar y reservar canchas cercanas a su ubicación, seleccionando horarios disponibles y pagando a través de una pasarela de pago integrada en la aplicación. Nuestra misión es facilitar un medio simple y rápido para conectar a los propietarios de canchas deportivas con sus clientes en cualquier lugar.
 
 ## Características Principales
 
@@ -9,6 +9,8 @@ PicadosYa! es una aplicación web diseñada para facilitar el alquiler de cancha
 - **Pasarela de pago integrada**: Paga de forma segura a través de nuestra pasarela de pago directamente desde la web.
 - **Mapas interactivos**: Visualiza la ubicación de las canchas en un mapa interactivo y obtén indicaciones para llegar.
 - **Filtrado de búsqueda**: Filtra las canchas según el tipo de deporte, precio, y horario disponible.
+- **Gestion de Reservas**: Mediante un panel personalizado se pueden gestionar todas las solicitudes de reservas.
+- **Seguimiento de ventas**: Mediante un dashboard se puede visualizar un historico de las ventas.
 
 ## Tecnologías Utilizadas
 
@@ -16,7 +18,7 @@ PicadosYa! es una aplicación web diseñada para facilitar el alquiler de cancha
 - **Backend**: Golang
 - **Base de Datos**: MySQL
 - **Pasarela de Pago**: API de MercadoPago
-- **Geolocalización**: API de geolocalización para mostrar las canchas cercanas a la ubicación del usuario
+- **Geolocalización**: API de Google para la geolocalización para mostrar las canchas cercanas a la ubicación del usuario
 - **CI/CD**: GitHub Actions
 - **Contenedores**: Docker
 - **Infraestructura**: AWS EC2
