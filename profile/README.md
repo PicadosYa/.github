@@ -1,4 +1,4 @@
-# PicadosYa! - App de Alquiler de Canchas
+# PicadosYa! - App de Alquiler y gestión de Canchas
 
 **PicadosYa!** es una aplicación web pensada y diseñada para facilitar el alquiler de canchas deportivas. Los usuarios pueden buscar y reservar canchas cercanas a su ubicación, seleccionando horarios disponibles y pagando a través de una pasarela de pago integrada en la aplicación. Nuestra misión es facilitar un medio simple y rápido para conectar a los propietarios de canchas deportivas con sus clientes en cualquier lugar.
 
